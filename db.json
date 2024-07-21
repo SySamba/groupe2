@@ -1,0 +1,22 @@
+{
+  "apprenants": [
+    {
+      "id": 1,
+      "prenom": "Astou",
+      "nom": "Dia",
+      "email": "dia@example"
+    },
+    {
+      "id": 2,
+      "prenom": "Astou",
+      "nom": "Dia",
+      "email": "dia@example"
+    },
+    {
+      "id": 3,
+      "prenom": "Astou",
+      "nom": "Dia",
+      "email": "dia@example"
+    }
+  ]
+}
